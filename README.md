@@ -15,11 +15,12 @@ I'm Sebastian, a Full Stack Developer and Automation Engineer passionate about b
 
 - ⚛️ React | Next.js | Vue.js | Astro | JavaScript | TypeScript  
 - 🐍 Node.js | Express | NestJS | Spring Boot | Java  
-- ☁️ AWS (Lambda, S3, EC2) | Docker | Kubernetes  
+- ☁️ AWS (Lambda, S3, EC2) | GCP | Azure | Cloudflare Workers | Docker | Kubernetes | Linux  
 - 🧪 Playwright | Jest | Cucumber  
 - 📦 Zustand | Redux Toolkit | Tailwind CSS | Sass | CSS  
-- 📱 Flutter
-
+- 📱 Flutter  
+- 🖥️ Bash Scripting | Shell scripting | Linux CLI & tools  
+- 🗄️ PostgreSQL | MySQL | Redis | MongoDB
 ---
 
 Thanks for visiting my profile! Feel free to connect or check out my projects.
