@@ -7,7 +7,7 @@ I'm Sebastian, a Full Stack Developer and Automation Engineer passionate about b
 - 👯 I’m looking to collaborate on open source projects related to testing automation, cloud infrastructure, and frontend/backend integration.  
 - 🤔 I’m looking for help with advanced cloud architectures and scalable microservices design.  
 - 💬 Ask me about React, TypeScript, Node, Playwright, automation frameworks, and software testing best practices.  
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/andresmancini](https://www.linkedin.com/in/sebasti%C3%A1n-olivera-sartori/))
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/sebasti%C3%A1n-olivera-sartori])
 - ⚡ Fun fact: I combine my love for code with a passion for music and fitness.
 ---
 
