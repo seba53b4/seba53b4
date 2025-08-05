@@ -4,10 +4,10 @@ I'm Sebastián, a Full Stack Developer and Automation Engineer passionate about 
 
 - 🔭 I’m currently working as a Full Stack developer  
 - 🌱 I’m currently learning **Vue** and **Quarkus**  
-- 👯 I’m looking to collaborate on open source projects related to testing automation, cloud infrastructure, and frontend/backend integration  
+- 👯 I’m looking to collaborate on open source projects related to frontend/backend, testing automation and cloud infrastructure integration  
 - 🤔 Looking to exchange knowledge on frontend design systems, state management, testing strategies, and scalable backend patterns  
 - 💬 Ask me about **React**, **TypeScript**, **Node.js**, **Playwright**, automation frameworks, and software testing best practices  
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/andres](https://www.linkedin.com/in/sebasti%C3%A1n-olivera-sartori/))  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-olivera-sartori/) 
 - ⚡ Fun fact: I combine my love for code with a passion for music and fitness
 
 ---
